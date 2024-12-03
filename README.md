@@ -9,22 +9,22 @@
 - 臺北市立建國高級中學
 
 ### Academic Subjects
-- Freshman 1
+- Freshman Fall
   - 程式設計
   - 邏輯設計
-- Freshman 2
+- Freshman Spring
   - 邏輯設計實驗
-- Sophomore 1
+- Sophomore Fall
   - 電路學
   - 線性代數
-- Sophomore 2
+- Sophomore Spring
   - 電子學
   - 機率
   - 訊號與系統
   - 資料結構
   - 離散數學
   - 嵌入式系統實驗
-- Junior 1
+- Junior Fall
   - 通訊系統
   - 積體電路設計導論
 
@@ -35,7 +35,8 @@
 ### Research Topics
 #### ROS robot OS
 - Learning experiences
-  - ROS2 basic usage
+  - Behavior Tree
+  - ROS2
   - ROS navigation1
   - EKF algorithum localization
 - Projects
