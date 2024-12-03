@@ -1,14 +1,17 @@
 ## Personal Profile
 
 ### Contact Information
+---
 - Email: wang.tw.ted@gmail.com
 - Phone: 0912028763
 
 ### Education
+---
 - 國立清華大學電機系
 - 臺北市立建國高級中學
 
 ### Academic Subjects
+---
 - Freshman Fall
   - 程式設計
   - 邏輯設計
@@ -29,10 +32,13 @@
   - 積體電路設計導論
 
 ### Other Experiences
+---
 - [NTHU DIT robotics](https://linktr.ee/DITROBOTICS) Eurobot 主程式組
 - [NTHU DIT robotics](https://linktr.ee/DITROBOTICS) 教學長
 - [NTHUGDC](https://linktr.ee/nthugdc) 書記
-### Research Topics
+
+### < Research Topics >
+---
 #### ROS robot OS
 - Learning experiences
   - Behavior Tree
