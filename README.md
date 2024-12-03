@@ -9,7 +9,7 @@
 - 臺北市立建國高級中學
 
 ### Academic Subjects
-- Freshman 1
+> Freshman 1
   - 程式設計
   - 邏輯設計
 - Freshman 2
