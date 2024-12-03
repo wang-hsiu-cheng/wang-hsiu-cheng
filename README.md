@@ -1,19 +1,17 @@
 ## Personal Profile
 
-### < Contact Information >
 ---
+### Contact Information
 - Email: wang.tw.ted@gmail.com
 - Phone: 0912028763
 
-
-### < Education >
 ---
+### Education
 - 國立清華大學電機系
 - 臺北市立建國高級中學
 
-
-### < Academic Subjects >
 ---
+### Academic Subjects
 - Freshman Fall
   - 程式設計
   - 邏輯設計
@@ -33,19 +31,17 @@
   - 通訊系統
   - 積體電路設計導論
 
-
-### < Other Experiences >
 ---
+### Other Experiences
 - [NTHU DIT robotics](https://linktr.ee/DITROBOTICS) Eurobot 主程式組
 - [NTHU DIT robotics](https://linktr.ee/DITROBOTICS) 教學長
 - [NTHUGDC](https://linktr.ee/nthugdc) 書記
 
-
-### < Research Topics >
 ---
-#### ROS robot OS
-- Learning experiences
-  - Behavior Tree
+### Research Topics
+#### ROS Robot OS
+- Learning Experiences
+  - Behavior tree
   - ROS2
   - ROS navigation1
   - EKF algorithum localization
@@ -53,7 +49,8 @@
   - AutoRace auto navigation SLAM robot
   - Omni wheel robot chassis with odometry localization
   - SCARA robot arm
-#### Unity game engine
+
+#### Unity Game Engine
 - Games Type
   - 2D Action and Puzzle game
   - 2D Parkour games
