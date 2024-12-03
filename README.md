@@ -51,7 +51,7 @@
   - SCARA robot arm
 
 #### Unity Game Engine
-- Games Type
+- Game Type
   - 2D Action and Puzzle game
   - 2D Parkour games
   - 3D Action and Fighting games
