@@ -28,14 +28,18 @@
   - 通訊系統
   - 積體電路設計導論
 
+### Other Experiences
+- [NTHU DIT robotics](https://linktr.ee/DITROBOTICS) Eurobot 主程式組
+- [NTHU DIT robotics](https://linktr.ee/DITROBOTICS) 教學長
+- [NTHUGDC](https://linktr.ee/nthugdc) 書記
 ### Research Topics
 #### ROS robot OS
-- earning experience
+- Learning experiences
   - ROS2 basic usage
   - ROS navigation1
   - EKF algorithum localization
 - Projects
-  - Autorace auto navigation SLAM robot
+  - AutoRace auto navigation SLAM robot
   - Omni wheel robot chassis with odometry localization
   - SCARA robot arm
 #### Unity game engine
@@ -44,19 +48,4 @@
   - 2D Parkour games
   - 3D Action and Fighting games
 - Project
-  - Catventure
-### Other Experiences
-<!--
-**wang-hsiu-cheng/wang-hsiu-cheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Catventure: 臺灣大專院校創意遊戲設計競賽年度風雲遊戲
