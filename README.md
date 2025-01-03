@@ -9,7 +9,7 @@
 ### Education
 - 國立清華大學電機系
 - 臺北市立建國高級中學
-
+<!--
 ---
 ### Academic Subjects
 - Freshman Fall
@@ -30,7 +30,7 @@
 - Junior Fall
   - 通訊系統
   - 積體電路設計導論
-
+-->
 ---
 ### Other Experiences
 - [NTHU DIT robotics](https://linktr.ee/DITROBOTICS) Eurobot 主程式組
