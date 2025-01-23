@@ -3,8 +3,9 @@
 ---
 ### Contact Information
 - Email: wang.tw.ted@gmail.com
+<!--
 - Phone: 0912028763
-
+-->
 ---
 ### Education
 - 國立清華大學電機系
