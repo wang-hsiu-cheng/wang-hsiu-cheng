@@ -41,6 +41,7 @@
 ---
 ### Research Topics
 #### ROS Robot OS
+<!--
 - Learning Experiences
   - Behavior tree
   - ROS2
@@ -50,11 +51,14 @@
   - AutoRace auto navigation SLAM robot
   - Omni wheel robot chassis with odometry localization
   - SCARA robot arm
+  --->
 
 #### Unity Game Engine
+<!--
 - Game Type
   - 2D Action and Puzzle game
   - 2D Parkour games
   - 3D Action and Fighting games
 - Project
   - [Catventure](https://gnn.gamer.com.tw/detail.php?sn=262042): 臺灣大專院校創意遊戲設計競賽年度風雲遊戲
+  -->
